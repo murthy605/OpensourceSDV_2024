@@ -1,0 +1,19 @@
+# CMake generation dependency list for this directory.
+C:/Krishna/Freertos/rp2040-freertos-template/build/CMakeFiles/3.30.3/CMakeASMCompiler.cmake
+C:/Krishna/Freertos/rp2040-freertos-template/lib/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040/library.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeASMCompiler.cmake.in
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeASMInformation.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCompilerIdDetection.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineASMCompiler.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompiler.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindBinUtils.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeTestASMCompiler.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/GNU-ASM.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/GNU-FindBinUtils.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/GNU.cmake
+C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/CMakeLists.txt
+C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/pico_sdk_init.cmake
+C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/common/pico_base/generate_config_header.cmake
+C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/common/pico_base/include/pico/version.h.in

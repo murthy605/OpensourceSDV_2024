@@ -1,0 +1,11 @@
+<CycloneDDS>
+    <DomainParticipant>
+        <Network>
+            <Transport>
+                <UDP/>
+            </Transport>
+            <!-- Optionally specify the interface address -->
+            <InterfaceAddress>192.168.1.2</InterfaceAddress> <!-- Replace with your local IP -->
+        </Network>
+    </DomainParticipant>
+</CycloneDDS>

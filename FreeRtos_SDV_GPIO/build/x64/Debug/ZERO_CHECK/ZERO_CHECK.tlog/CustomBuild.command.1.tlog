@@ -1,0 +1,10 @@
+^C:\KRISHNA\FREERTOS\RP2040-FREERTOS-TEMPLATE\BUILD\CMAKEFILES\0CCBEAC9B19F32ED86577555B6275BFB\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Krishna/Freertos/rp2040-freertos-template -BC:/Krishna/Freertos/rp2040-freertos-template/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Krishna/Freertos/rp2040-freertos-template/build/rp2040-freertos-template.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
